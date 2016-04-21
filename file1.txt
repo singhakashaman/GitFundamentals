@@ -1,4 +1,6 @@
 this is the content of file 1
 Adding some code here
 Adding yet more code
-feature3
+feature
+Fix1
+v1.0_fixes
